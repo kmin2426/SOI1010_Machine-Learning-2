@@ -76,7 +76,7 @@ Please do **not** copy or reuse any part of this repository for academic submiss
 
 ---
 
-## ✍️ Author
+## Author
 **Dongmin Kim**  
-Department of Data Science / Automotive Engineering  
+Department of Automotive Engineering (Minor: Data Science)
 Hanyang University
