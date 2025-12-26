@@ -1,11 +1,5 @@
 # SOI1010 – Machine Learning 2
 
-This repository contains assignments and reports for  
-**SOI1010: Machine Learning 2**,  
-taught by **Prof. Sung-Yong Baek**  
-at **Hanyang University, Department of Data Science**,  
-**Fall Semester 2025**.
-
 ---
 
 ## Course Information
